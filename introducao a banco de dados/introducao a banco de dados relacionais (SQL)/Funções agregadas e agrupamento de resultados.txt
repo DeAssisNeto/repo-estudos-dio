@@ -1,0 +1,8 @@
+SELECT COUNT(*) AS total_usuarios FROM usuarios;
+
+SELECT COUNT(*) AS total_usuarios FROM usuarios us
+INNER JOIN reservas rs ON rs.id_usuario = us.id;
+
+SELECT MAX(EXTRACT(YEAR FROM AGE(CURRENT_DATE, data_nascimento))) AS maior_idade FROM usuarios;
+SELECT * FROM usuarios;
+

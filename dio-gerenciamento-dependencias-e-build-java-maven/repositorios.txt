@@ -1,0 +1,3 @@
+remoto -- local central utilizado pelo maven para buscar os artefatos.
+configurado pelo super pom.
+

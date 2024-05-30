@@ -1,0 +1,33 @@
+Conceito de ciclo de vida de construção
+
+Default
+	Principal ciclo
+	Responsável pelo deploy local
+
+	Fases
+		validate
+		compile
+		test-compile
+		test
+		integration-test
+		package
+		install
+		deploy
+
+Clean
+	Ciclo intemediário
+	limeza do projeto
+	3 fazes
+		pre-clean
+		clean
+		post-clean
+
+Site
+	ciclo final
+	responsável pela criação do site de docuemntação do projeto
+	4 fazes
+
+		pre-site
+		site
+		post-site
+		site-deploy

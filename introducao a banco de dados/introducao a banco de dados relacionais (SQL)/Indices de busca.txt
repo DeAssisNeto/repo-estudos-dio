@@ -1,0 +1,6 @@
+EXPLAIN 
+	SELECT * FROM usuarios WHERE email='joão@example.com';
+	
+CREATE INDEX idx_nome ON usuarios (nome);
+	
+SELECT * FROM usuarios;

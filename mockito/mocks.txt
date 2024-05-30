@@ -1,0 +1,3 @@
+Oque são moks -- Tecnica para tirar a depedência de recursos de uma funcionalidade para poder fazer e realizar testes.
+
+ 

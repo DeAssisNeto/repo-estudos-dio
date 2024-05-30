@@ -1,0 +1,15 @@
+Escalabilidade
+	Relacionais escalam de forma vertical
+		Upgrade do hardware, do recurso, inflar o hardware.
+
+	NoSQL escalam de forma horizontal
+		Particionando os dados (sharding)
+		
+
+Schema
+	Relacionais -- modelar dados, gerar scripts de criação, definir chaves, etc
+
+
+	NoSQL -- ausencia completa ou parcialmente completa de regras de schema
+		Não é necessário pre definir ao banco quais os tipos de dados.
+		

@@ -1,0 +1,3 @@
+Direta: dependências declaradas no pom.xml.
+
+Transitiva: dependências obrigatórias das dependências declaradas no pom.xml.

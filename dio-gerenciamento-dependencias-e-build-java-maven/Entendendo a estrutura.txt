@@ -1,0 +1,13 @@
+POM -- Project Objetc Model
+	Unidade fundamental
+	Formato XML
+	Detalha o projeto
+	Detalha como construir o projeto
+	Maven sempre procura pelo pom.xml para realizar sua execução
+	Nome do projeto
+	Dependencias
+	Modulo
+	Configs de build
+	Detalhes do projeto
+	Configuraçãoes de ambiente
+	

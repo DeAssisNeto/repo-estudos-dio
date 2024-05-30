@@ -1,0 +1,10 @@
+1. Compilar: compile
+
+2. Testar: test
+
+3. Empacotar: package
+
+4. Lipar diretório de trabalho: clean
+
+
+Maven archetype --> Template que possibilita a personalização e configuração da construção de um projeto: neste arquivo são definidas versões dos componentes, quais componentes serão definidos automáticamente, organizaão de pacotes e organizaão de arquivos.
